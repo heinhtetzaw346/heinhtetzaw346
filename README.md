@@ -3,7 +3,7 @@
 - **DevOps Practitioner** and currently employed as DevOps Engineer 
 - Background in **Network Engineering**  
 - Familiar with **Systems, Linux,** and DevOps platforms like **GitLab, Github Actions**
-- Some cloud experience on **AWS and Digital Ocean** 
+- Some cloud experience on **AWS, Digital Ocean and GCP** 
 - Programming Languages **C#** and **Python** 
 - Currently trying to build **DevOps tools with Python**
 - Creating Bash scripts to perform day-to-day actions
