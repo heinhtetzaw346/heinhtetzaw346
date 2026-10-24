@@ -14,10 +14,10 @@ I bridge the gap between complex infrastructure and developer experience. My foc
 ---
 
 ### 🧰 The Tech Stack
-**Cloud & Infra:** Kubernetes, AWS, GCP, DigitalOcean, ESXi/Proxmox
-**Networking & Mesh:** Istio, WSO2 APIM, Core Routing (BGP, OSPF)
-**Toolchain:** FluxCD, GitLab CI, GitHub Actions, Docker
-**Languages:** Python, Bash, C#
+- **Cloud & Infra:** Kubernetes, AWS, GCP, DigitalOcean, ESXi/Proxmox
+- **Networking & Mesh:** Istio, WSO2 APIM, Core Routing (BGP, OSPF)
+- **Toolchain:** FluxCD, GitLab CI, GitHub Actions, Docker
+- **Languages:** Python, Bash, C#
 
 ---
 
